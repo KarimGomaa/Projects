@@ -11,8 +11,6 @@ This repository contains the implementation of a Door Locker Security System des
 - [Hardware](#hardware)
 - [Implementation Details](#implementation-details)
 - [How to Use](#how-to-use)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
