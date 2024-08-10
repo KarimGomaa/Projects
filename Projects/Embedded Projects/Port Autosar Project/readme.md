@@ -11,8 +11,6 @@ This repository contains the implementation of the AUTOSAR Port Driver module, w
 - [Configuration](#configuration)
 - [Testing and Validation](#testing-and-validation)
 - [How to Use](#how-to-use)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
