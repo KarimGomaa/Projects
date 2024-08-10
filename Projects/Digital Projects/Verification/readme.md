@@ -71,6 +71,3 @@ The UVM environment is designed to verify the SPI-Slave module's interaction wit
 - Comprehensive verification of the SPI-Slave's behavior in various scenarios.
 - Testing of data transfer between SPI-Slave and Dual-Port RAM.
 - Functional coverage and assertion-based checks.
-
-
-    ```
