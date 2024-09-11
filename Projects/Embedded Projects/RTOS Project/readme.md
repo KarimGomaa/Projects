@@ -32,7 +32,7 @@ This RTOS project demonstrates task management and inter-task communication usin
 To get started with this project, clone the repository and follow the setup instructions. Ensure you have FreeRTOS installed and properly configured.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/KarimGomaa/Projects
 cd <project-directory>
 # Follow the specific build instructions for your environment
 ```
