@@ -13,7 +13,6 @@ This a simple client-server application written in C++. The server listens for i
 - [🔄 Communication](#-communication)
 - [🔎 Example Usage](#-example-usage)
 - [⚠️ Troubleshooting](#-troubleshooting)
-- [📬 Contact](#-contact)
 
 
 ## 📂 Files
