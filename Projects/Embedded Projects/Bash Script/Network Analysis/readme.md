@@ -1,4 +1,4 @@
-# 🖥️ Network Traffic Analysis Bash Script
+# 🖥️ Network Traffic Analysis
 
 This project automates network traffic analysis using a Bash script. The script analyzes `.pcap` files captured by **Wireshark** or **tcpdump** and generates a summary report with relevant statistics like total packets, protocols, and top IP addresses.
 
