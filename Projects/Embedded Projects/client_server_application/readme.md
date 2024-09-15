@@ -121,7 +121,7 @@ The client will connect to the server at localhost on port 12345.
 - Ensure that the server is running before starting the client.
 - Verify that the hostname and port number provided to the client match those used by the server.
 - Use netstat -tlnp or ss -tlnp to check the status of listening ports and their corresponding PIDs.
-- Use kill -9 <pid> to forcefully terminate the server if necessary.
+- Use `kill -9 <pid>` to forcefully terminate the server if necessary.
 - Check for any errors printed to the terminal if something goes wrong.
 
 ##
